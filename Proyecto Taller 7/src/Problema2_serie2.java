@@ -27,3 +27,5 @@ public class Problema2_serie2 {
  * 5/10, 10/12, 15/14, 20/16, 25/18, 30/20, 35/22, 40/24, 45/26, 50/28, 55/30, 
  * BUILD SUCCESSFUL (total time: 21 seconds)
  */
+
+

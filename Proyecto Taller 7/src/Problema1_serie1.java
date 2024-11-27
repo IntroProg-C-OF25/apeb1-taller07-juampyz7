@@ -26,3 +26,4 @@ public class Problema1_serie1 {
  * 1/10, 2/11, 3/12, 4/13, 5/14, 6/15, 7/16, 8/17, 9/18, 10/19, 
  * BUILD SUCCESSFUL (total time: 1 second)
  */
+

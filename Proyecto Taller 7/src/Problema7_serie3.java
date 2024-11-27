@@ -28,3 +28,5 @@ public class Problema7_serie3 {
  * La sumatoria alternada es: 0,35437
  * BUILD SUCCESSFUL (total time: 0 seconds)
  */
+
+

@@ -1,5 +1,5 @@
 
-/** *
+/***
  * Realizar un programa Java que permita pedir por teclado el nombre de 5 empleados.
  * Por cada empleado se debe solicitar el nombre, numero de días trabajados y costo del día trabajo.
  * Calcular el valor a cancelar por la empresa para cada empleado. Presentar un reporte como el siguiente:
@@ -67,3 +67,5 @@ public static void main(String[] args) {
  * | Antonny	 | 15,00	 | 25,00	 | 375,00	 |
  * BUILD SUCCESSFUL (total time: 34 seconds)
  */
+
+
